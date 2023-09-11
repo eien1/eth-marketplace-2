@@ -1,7 +1,7 @@
 
 
 
-export default function Modal() {
+export default function Keypoints() {
 
     return (
         <section>
